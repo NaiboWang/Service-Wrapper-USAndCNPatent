@@ -6,6 +6,12 @@
 
   It has obtained patent authorization from the State Intellectual Property Office of China.
 
+## 赞助者/Sponsors
+
+[![Capsolver](https://raw.githubusercontent.com/NaiboWang/EasySpider/master/media/capsolver.gif)](https://www.capsolver.com/zh?utm_source=github&utm_medium=banner_github&utm_campaign=asarmor)
+
+[Capsolver.com](https://www.capsolver.com/zh?utm_source=github&utm_medium=banner_github&utm_campaign=asarmor) is an AI-powered service that provides automatic captcha solving capabilities. It supports a range of captcha types, including reCAPTCHA, hCaptcha, and FunCaptcha, AWS Captcha, Geetest, Akamai Web, BMP, Imperva / Incapsula, image captcha among others. 
+
 ## What is Service Wrapper
 
 **Service Wrapper** is a web data extraction and packaging system based on [web page segmentation algorithm](https://github.com/liaocyintl/WebSegment). The system requires only a few clicks to get the **location description information** of the core metadata in the web page, converts the HTML document into structured data, encapsulates it as a service, and provides a **RESTFul API** that can be directly invoked.
